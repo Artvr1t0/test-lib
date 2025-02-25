@@ -3,7 +3,7 @@ name = "arturito"
 version = "0.1.0"
 description = "Arturito is a Python library"
 authors = [{ name = "Matias", email = "sanchezgaviermatias@gmail.com" }]
-license = "MIT"
+license = { text = "MIT" }
 keywords = ["fun"]
 
 dependencies = ["pandas"]
